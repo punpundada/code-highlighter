@@ -24,3 +24,6 @@ db.sql*
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+
+# docker volume
+db-data/
