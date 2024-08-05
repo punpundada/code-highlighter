@@ -11,5 +11,5 @@ urlpatterns = [
     path("",view=views.api_root)
 ]
 
-urlpatterns = format_suffix_patterns(urlpatterns=urlpatterns);
+urlpatterns = format_suffix_patterns(urlpatterns=urlpatterns)
 
